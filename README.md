@@ -1,3 +1,6 @@
-# MDC-101 for Material Components for Android (Kotlin)
+# Project created on Material Components for Android (Kotlin)
 
-Contains starter code structure for the MDC-101 Kotlin codelab.
+This project has taught me how to use material design components in android app
+These are the screenshots from the app current version
+
+![shrine_login.png](screenshots/shrine_login.png)
